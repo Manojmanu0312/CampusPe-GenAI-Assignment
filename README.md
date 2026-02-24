@@ -28,6 +28,9 @@ All programs were tested with multiple inputs before submission.
 ------------------------------------------------------------
 LIST OF PROGRAMS
 ------------------------------------------------------------
+Q1  - Personnal Bio Card
+Displays personal information (name, age, course, college,
+and email) in a neatly formatted bio card using variables.
 
 Q2  - Simple Calculator
 Performs addition, subtraction, multiplication, division,
